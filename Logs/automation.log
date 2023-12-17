@@ -2617,3 +2617,79 @@ nopCommerce version 4.60.0
 2023-12-17 16:28:51,413 - root - INFO - ************ Home Page Test Is Passed *************
 2023-12-17 16:28:53,018 - root - INFO - ************ Verifying Login Test *************
 2023-12-17 16:28:59,590 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 17:38:14,668 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:38:14,668 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:38:19,781 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:38:19,781 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:38:19,781 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:38:19,781 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:38:23,322 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:38:23,322 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:40:49,525 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:40:49,525 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:40:53,243 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:40:53,243 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:40:53,243 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:40:53,243 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:40:56,458 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:40:56,458 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:46:01,581 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:46:01,581 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:46:05,401 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:46:05,401 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:46:05,401 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:46:05,401 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:46:08,429 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:46:08,429 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:47:24,887 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:47:24,887 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:47:28,988 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:47:28,988 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:47:28,989 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:47:28,989 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:47:32,011 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:47:32,011 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:47:39,796 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:47:39,796 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:47:43,905 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:47:43,905 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:47:43,905 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:47:43,905 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:47:46,368 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:47:46,368 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:47:51,082 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:47:51,082 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:47:51,082 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:47:51,082 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:47:51,673 - root - ERROR - ******* Add customer test failed ********
+2023-12-17 17:47:51,673 - root - ERROR - ******* Add customer test failed ********
+2023-12-17 17:48:26,878 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:48:26,878 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:48:31,635 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:48:31,635 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:48:31,636 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:48:31,636 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:48:34,633 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:48:34,633 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:48:38,868 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:48:38,868 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:48:38,868 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:48:38,868 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:48:39,517 - root - ERROR - ******* Add customer test failed ********
+2023-12-17 17:48:39,517 - root - ERROR - ******* Add customer test failed ********
+2023-12-17 17:53:52,342 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:53:52,342 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 17:53:56,239 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:53:56,239 - root - INFO - ******** Login Successfull ********
+2023-12-17 17:53:56,239 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:53:56,239 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 17:53:59,262 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:53:59,262 - root - INFO - ******** Providing customer info *******
+2023-12-17 17:54:04,016 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:54:04,016 - root - INFO - ******** Saving customer info *********
+2023-12-17 17:54:04,016 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:54:04,016 - root - INFO - ******** Add customer validation *********
+2023-12-17 17:54:04,541 - root - INFO - ******* Add customer Test Passed *******
+2023-12-17 17:54:04,541 - root - INFO - ******* Add customer Test Passed *******
+2023-12-17 17:54:04,541 - root - INFO - ********* Ending Test003_AddCustomer ********
+2023-12-17 17:54:04,541 - root - INFO - ********* Ending Test003_AddCustomer ********

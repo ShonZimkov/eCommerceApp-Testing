@@ -2,8 +2,6 @@ import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from utilities.customLogger import LogGen
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 class AddCustomer:
 
@@ -21,10 +19,10 @@ class AddCustomer:
     txtCompanyName_xpath = "Company"
 
     txtcustomerRoles_xpath = "customer-info"
-    lstitemAdministrators_xpath = "SelectedCustomerRoleIds_listbox"
-    lstitemRegistered_xpath = "535fe69b-23ce-485d-acc4-3006da4349c4"
-    lstitemGuests_xpath = "SelectedCustomerRoleIds_listbox"
-    lstitemVendors_xpath = "SelectedCustomerRoleIds_listbox"
+    lstitemAdministrators_xpath = "//*[@id='SelectedCustomerRoleIds_listbox']/li[1]"
+    lstitemRegistered_xpath = "//*[@id='87a8a65f-25c2-4210-974e-fe6615f25cc3']"
+    lstitemGuests_xpath = "//*[@id='SelectedCustomerRoleIds_listbox']/li[3]"
+    lstitemVendors_xpath = "//*[@id='SelectedCustomerRoleIds_listbox']/li[5]"
     drpmgrOfVendor_xpath = "VendorId"
     txtAdminContent_xpath = "AdminComment"
     btnSave_xpath = "/html/body/div[3]/div[1]/form/div[1]/div/button[1]"
@@ -79,20 +77,21 @@ class AddCustomer:
     def setCustomerRoles(self, role):
         self.driver.find_element(By.ID, self.txtcustomerRoles_xpath).click()
         if role == 'Registered':
-            self.listitem = self.driver.find_element(By.ID, self.lstitemRegistered_xpath)
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemRegistered_xpath)
         elif role == 'Administrators':
-            self.listitem = self.driver.find_element(By.ID, self.lstitemAdministrators_xpath)
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemAdministrators_xpath)
         elif role == 'Guests':
             # here user can be registered or Guest , only one
-            # self.driver.find_element(By.XPATH, "//span[@title='delete']")
-            self.listitem = self.driver.find_element(By.ID, self.lstitemGuests_xpath)
+            time.sleep(3)
+            self.driver.find_element(By.XPATH, "//*[@id='SelectedCustomerRoleIds_taglist']/li/span[2]").click()
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuests_xpath)
         elif role == 'Registered':
-            self.listitem = self.driver.find_element(By.ID, self.lstitemRegistered_xpath)
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemRegistered_xpath)
         elif role == 'Vendors':
-            self.listitem = self.driver.find_element(By.ID, self.lstitemVendors_xpath)
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemVendors_xpath)
         else:
-            self.listitem = self.driver.find_element(By.ID, self.lstitemGuests_xpath)
-        #self.listitem.click()
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuests_xpath)
+        # self.listitem.click()
         self.driver.execute_script("arguments[0].click();", self.listitem)
 
     def setManagerOfVendor(self, value):
