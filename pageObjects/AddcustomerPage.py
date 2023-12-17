@@ -40,11 +40,11 @@ class AddCustomer:
         # elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
         # wait = WebDriverWait(self.driver, timeout=2)
         # wait.until(lambda driver: elem.is_displayed()).click()
+        self.logger.info("Current Page Title:" + self.driver.title)
+        self.logger.info("Current URL after login:" + self.driver.current_url)
         WebDriverWait(self.driver, 5).until(
             EC.presence_of_element_located((By.CLASS_NAME, "main-header navbar navbar-expand-md navbar-dark bg-dark"))
         )
-        self.logger.info("Current Page Title:" + self.driver.title)
-        self.logger.info("Current URL after login:" + self.driver.current_url)
         WebDriverWait(self.driver, 5).until(
             EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/a"))
         ).click()
