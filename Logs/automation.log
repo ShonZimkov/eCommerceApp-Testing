@@ -2391,3 +2391,211 @@ nopCommerce version 4.60.0
 2023-12-15 21:32:32,143 - root - INFO - ************ Login Test Is Passed *************
 2023-12-15 21:32:32,143 - root - INFO - ************ Login Test Is Passed *************
 2023-12-15 21:32:32,143 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:46,033 - root - INFO - ********* Test_008_EditCustomer *********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,332 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:50,333 - root - INFO - ******** Starting Edit Customer Test *********
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:03:58,715 - root - INFO - ******** Editing customer info *******
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,312 - root - INFO - ******** Edit customer validation *********
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,844 - root - INFO - ******* Edit customer Test Passed *******
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:00,953 - root - INFO - ********* Ending Test008_editCustomer ********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:02,673 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:06,970 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:12,630 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:14,617 - root - INFO - ******** ExportCustomersAll_006 *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,346 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:18,347 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:22,161 - root - INFO - ****** Exporting File (ALL) ******
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:24,537 - root - INFO - ******** TC_ExportCustomersAll_006 Finished
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:26,562 - root - INFO - ******** ExportCustomersSelect_007 *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,264 - root - INFO - ******* Login Successful *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:30,265 - root - INFO - ******* Starting Export Customer INFO *******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:33,074 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - *********** File downloaded Successfully *********
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:36,787 - root - INFO - ******** TC_ExportCustomersSelected_007 Finished
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:38,631 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
