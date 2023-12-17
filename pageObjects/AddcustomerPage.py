@@ -84,7 +84,7 @@ class AddCustomer:
             self.listitem = self.driver.find_element(By.ID, self.lstitemAdministrators_xpath)
         elif role == 'Guests':
             # here user can be registered or Guest , only one
-            self.driver.find_element(By.XPATH, "//span[@title='delete']")
+            # self.driver.find_element(By.XPATH, "//span[@title='delete']")
             self.listitem = self.driver.find_element(By.ID, self.lstitemGuests_xpath)
         elif role == 'Registered':
             self.listitem = self.driver.find_element(By.ID, self.lstitemRegistered_xpath)
