@@ -33,12 +33,12 @@ class Test_003_AddCustomer:
         self.logger.info("******** Starting Add Customer Test *********")
 
         self.addcust = AddCustomer(self.driver)
-        self.driver.implicitly_wait(2)
+        self.driver.implicitly_wait(5)
         self.addcust.clickOnCustomerMenu()
         self.addcust.clickOnCustomerMenuItem()
 
         self.addcust.clickOnAddNew()
-        self.driver.implicitly_wait(2)
+        self.driver.implicitly_wait(5)
         self.logger.info("******** Providing customer info *******")
 
         self.email = random_generator() + "@gmail.com"
