@@ -1,7 +1,7 @@
 import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
+from utilities.customLogger import LogGen
 
 class AddCustomer:
 
@@ -29,15 +29,21 @@ class AddCustomer:
 
     # for getting to Edit Page
     btnEditCustomer_xpath = "//*[@id='customers-grid']/tbody/tr[1]/td[7]/a"
+    logger = LogGen.loggen()
 
     def __init__(self, driver):
         self.driver = driver
 
     def clickOnCustomerMenu(self):
-        elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
-        wait = WebDriverWait(self.driver, timeout=2)
-        wait.until(lambda driver: elem.is_displayed()).click()
-        # self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
+        # elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
+        # wait = WebDriverWait(self.driver, timeout=2)
+        # wait.until(lambda driver: elem.is_displayed()).click()
+        # self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).clcik()
+        if self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).size() != 0:
+            self.logger.info("******** existsssssssssssss *********")
+        else:
+            self.logger.info("********* no!!!!!!!!!!!!!**************")
+
 
     def clickOnCustomerMenuItem(self):
         self.driver.find_element(By.XPATH, self.lnkCustomers_menuitem_xpath).click()
