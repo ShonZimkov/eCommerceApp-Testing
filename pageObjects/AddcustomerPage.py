@@ -40,7 +40,10 @@ class AddCustomer:
         # elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
         # wait = WebDriverWait(self.driver, timeout=2)
         # wait.until(lambda driver: elem.is_displayed()).click()
-        WebDriverWait(self.driver, 10).until(
+        WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.XPATH, "//body[contains(@class, 'sidebar-mini layout-fixed control-sidebar-slide-open')]"))
+        )
+        WebDriverWait(self.driver, 20).until(
             EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/a"))
         ).click()
         # if self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).size() != 0:
