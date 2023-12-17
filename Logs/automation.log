@@ -2612,3 +2612,8 @@ nopCommerce version 4.60.0
 2023-12-17 12:34:18,820 - root - INFO - ************ Home Page Test Is Passed *************
 2023-12-17 12:34:20,425 - root - INFO - ************ Verifying Login Test *************
 2023-12-17 12:34:25,785 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 16:28:48,265 - root - INFO - ************ TEST_001_Login *************
+2023-12-17 16:28:48,265 - root - INFO - ************ Verifying Home Page Title *************
+2023-12-17 16:28:51,413 - root - INFO - ************ Home Page Test Is Passed *************
+2023-12-17 16:28:53,018 - root - INFO - ************ Verifying Login Test *************
+2023-12-17 16:28:59,590 - root - INFO - ************ Login Test Is Passed *************

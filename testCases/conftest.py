@@ -1,13 +1,10 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture()
 def setup(browser):
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
     if browser == 'chrome':
-        driver = webdriver.Chrome(options=chrome_options)
+        driver = webdriver.Chrome()
         print('Lunching Chrome browser.....')
         return driver
     elif browser == 'firefox':
