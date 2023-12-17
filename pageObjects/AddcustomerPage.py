@@ -33,6 +33,7 @@ class AddCustomer:
         self.driver = driver
 
     def clickOnCustomerMenu(self):
+        self.driver.implicitly_wait(5)
         self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
 
     def clickOnCustomerMenuItem(self):
