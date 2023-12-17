@@ -41,7 +41,6 @@ class Test_001_Login:
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
         act_title = self.driver.title
-        # self.driver.close()
         if act_title == "Dashboard / nopCommerce administration":
             assert True
             self.logger.info("************ Login Test Is Passed *************")
