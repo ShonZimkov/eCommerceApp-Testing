@@ -1,19 +1,22 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture()
 def setup(browser):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
     if browser == 'chrome':
-        driver = webdriver.Chrome()
-        print('Lunaching Chrome browser.....')
+        driver = webdriver.Chrome(options=chrome_options)
+        print('Lunching Chrome browser.....')
         return driver
     elif browser == 'firefox':
         driver = webdriver.Firefox()
-        print('Lunaching Firefox browser.....')
+        print('Lunching Firefox browser.....')
         return driver
     else:
         driver = webdriver.Edge()
-        print('Lunaching MS Edge browser.....')
+        print('Lunching MS Edge browser.....')
         return driver
 
 def pytest_addoption(parser): #This will get the value from CLI /hooks
