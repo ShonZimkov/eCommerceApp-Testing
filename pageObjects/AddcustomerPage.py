@@ -1,6 +1,7 @@
 import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
 
 class AddCustomer:
 
@@ -33,8 +34,10 @@ class AddCustomer:
         self.driver = driver
 
     def clickOnCustomerMenu(self):
-        self.driver.implicitly_wait(5)
-        self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
+        elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
+        wait = WebDriverWait(self.driver, timeout=2)
+        wait.until(lambda driver: elem.is_displayed()).click()
+        # self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
 
     def clickOnCustomerMenuItem(self):
         self.driver.find_element(By.XPATH, self.lnkCustomers_menuitem_xpath).click()
