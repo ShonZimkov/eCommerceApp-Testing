@@ -2,6 +2,8 @@ import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from utilities.customLogger import LogGen
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 class AddCustomer:
 
@@ -38,7 +40,9 @@ class AddCustomer:
         # elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
         # wait = WebDriverWait(self.driver, timeout=2)
         # wait.until(lambda driver: elem.is_displayed()).click()
-        self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/a"))
+        ).click()
         # if self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).size() != 0:
             # self.logger.info("******** existsssssssssssss *********")
         # else:
