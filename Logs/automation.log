@@ -2599,3 +2599,11 @@ nopCommerce version 4.60.0
 2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
 2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
 2023-12-17 11:04:43,514 - root - INFO - ************ Login Test Is Passed *************
+2023-12-17 11:13:11,174 - root - INFO - ********* Test_003_AddCustomer *********
+2023-12-17 11:13:17,340 - root - INFO - ******** Login Successfull ********
+2023-12-17 11:13:17,341 - root - INFO - ******** Starting Add Customer Test *********
+2023-12-17 11:13:23,178 - root - INFO - ******** Providing customer info *******
+2023-12-17 11:13:24,542 - root - INFO - ******** Saving customer info *********
+2023-12-17 11:13:24,543 - root - INFO - ******** Add customer validation *********
+2023-12-17 11:13:25,019 - root - INFO - ******* Add customer Test Passed *******
+2023-12-17 11:13:25,127 - root - INFO - ********* Ending Test003_AddCustomer ********

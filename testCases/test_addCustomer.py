@@ -38,7 +38,7 @@ class Test_003_AddCustomer:
         self.addcust.clickOnCustomerMenuItem()
 
         self.addcust.clickOnAddNew()
-        time.sleep(2)
+        self.driver.implicitly_wait(2)
         self.logger.info("******** Providing customer info *******")
 
         self.email = random_generator() + "@gmail.com"
