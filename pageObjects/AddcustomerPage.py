@@ -38,11 +38,11 @@ class AddCustomer:
         # elem = self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath)
         # wait = WebDriverWait(self.driver, timeout=2)
         # wait.until(lambda driver: elem.is_displayed()).click()
-        # self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).clcik()
-        if self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).size() != 0:
-            self.logger.info("******** existsssssssssssss *********")
-        else:
-            self.logger.info("********* no!!!!!!!!!!!!!**************")
+        self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
+        # if self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).size() != 0:
+            # self.logger.info("******** existsssssssssssss *********")
+        # else:
+            # self.logger.info("********* no!!!!!!!!!!!!!**************")
 
 
     def clickOnCustomerMenuItem(self):

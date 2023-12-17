@@ -19,10 +19,10 @@ class Test_003_AddCustomer:
         self.logger.info("********* Test_003_AddCustomer *********")
         self.driver = setup
         self.driver.get(self.baseURL)
-        self.driver.maximize_window()
+        # self.driver.maximize_window()
 
-        # dimension = {'width': 1382, 'height': 744}
-        # self.driver.set_window_size(**dimension)
+        dimension = {'width': 1382, 'height': 744}
+        self.driver.set_window_size(**dimension)
 
         self.lp = LoginPage(self.driver)
         self.lp.setUserName(self.username)
@@ -33,7 +33,8 @@ class Test_003_AddCustomer:
         self.logger.info("******** Starting Add Customer Test *********")
 
         self.addcust = AddCustomer(self.driver)
-        # self.driver.implicitly_wait(5)
+        self.driver.implicitly_wait(5)
+        time.sleep(5)
         self.addcust.clickOnCustomerMenu()
         self.addcust.clickOnCustomerMenuItem()
 
