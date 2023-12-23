@@ -37,7 +37,7 @@ class Test_SearchCustomerByEmail_004:
         searchcust = SearchCustomer(self.driver)
         searchcust.setEmail("victoria_victoria@nopCommerce.com")
         searchcust.clickSearch()
-        time.sleep(1)
+        time.sleep(2)
         status = searchcust.searchCustomerByEmail("victoria_victoria@nopCommerce.com")
         assert True == status
         self.logger.info("******** TC_SearchCustomerByEmail_004 Finished")

@@ -19,3 +19,12 @@ class ReadConfig:
     def getPassword():
         password = config.get('common info', 'password')
         return password
+
+    @staticmethod
+    def getUserLoginURL():
+        url = config.get('common info', 'userloginURL')
+        return url
+
+    def getHomeURL():
+        url = config.get('common info', 'homeURL')
+        return url
