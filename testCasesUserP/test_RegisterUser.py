@@ -49,5 +49,5 @@ class Test_010_RegisterUser:
             assert True == False
 
 
-        # self.driver.close()
+        self.driver.close()
         self.logger.info("********* Ending Test_010_RegisterUser ********")

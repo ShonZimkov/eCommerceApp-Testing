@@ -93,4 +93,4 @@ class Test_014_OrderByCheck:
             self.logger.error("******* Order By Check test failed ********")
             assert True == False
 
-        # self.driver.close()
+        self.driver.close()

@@ -82,7 +82,7 @@ class Test_014_OrderByCreditCard:
         self.cbc.setCardCode("123")
         self.cbc.clickPaymentInfoContinue()
         self.logger.info("******** Order Confirm Page *********")
-        time.sleep(2)
+        time.sleep(10)
         self.cbc.clickOrderConfirm()
 
         self.logger.info("******** Validate Order Confirmation *********")
@@ -99,4 +99,4 @@ class Test_014_OrderByCreditCard:
             self.logger.error("******* Order By Credit Card test failed ********")
             assert True == False
 
-        # self.driver.close()
+        self.driver.close()

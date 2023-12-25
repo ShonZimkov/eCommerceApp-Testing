@@ -44,6 +44,6 @@ class Test_012_AddToCart:
             self.logger.error("******* Add To Cart test failed ********")
             assert True == False
 
-        # self.driver.close()
+        self.driver.close()
         self.logger.info("********* Ending Test_012_AddToCart ********")
 

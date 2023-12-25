@@ -30,7 +30,7 @@ class Test_008_EditCustomer:
         self.logger.info("******** Starting Edit Customer Test *********")
 
         self.editcust = AddCustomer(self.driver)
-        time.sleep(2)
+        time.sleep(3)
         self.editcust.clickOnCustomerMenu()
         self.editcust.clickOnCustomerMenuItem()
         time.sleep(2)
