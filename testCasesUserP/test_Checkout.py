@@ -13,7 +13,7 @@ class Test_013_Checkout:
 
     # @pytest.mark.sanity
     # @pytest.mark.regression
-    def test_addtocart(self, setup):
+    def test_checkout(self, setup):
         self.logger.info("************ Starting Test_013_Checkout  *************")
         self.logger.info("************ Verifying Login  *************")
         self.driver = setup
@@ -38,3 +38,15 @@ class Test_013_Checkout:
         self.cbc.clickOnTermsofService()
         self.cbc.clickOnCheckout()
         time.sleep(2)
+        self.logger.info("******** Validate Checkout Page *********")
+
+        act_title = self.driver.title
+        if act_title == "nopCommerce demo store. Checkout":
+            assert True
+            self.logger.info("************ Checkout Test Is Passed *************")
+            self.driver.close()
+        else:
+            self.driver.save_screenshot("./Screenshots/test_checkout.png")
+            self.logger.error("************ Checkout Test Is Failed *************")
+            self.driver.close()
+            assert False

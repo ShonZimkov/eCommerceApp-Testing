@@ -44,7 +44,7 @@ class Test_010_RegisterUser:
             assert True == True
             self.logger.info("******* Register user Test Passed *******")
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_addCustomer_scr.png")
+            self.driver.save_screenshot(".\\Screenshots\\" + "test_registerUser_scr.png")
             self.logger.error("******* Register user test failed ********")
             assert True == False
 

@@ -40,7 +40,7 @@ class Test_012_AddToCart:
             assert True == True
             self.logger.info("******* Add To Cart Test Passed *******")
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_addCustomer_scr.png")
+            self.driver.save_screenshot(".\\Screenshots\\" + "test_addToCart_scr.png")
             self.logger.error("******* Add To Cart test failed ********")
             assert True == False
 

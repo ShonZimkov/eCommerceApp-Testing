@@ -11,14 +11,14 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
 
-class Test_014_OrderByCheck:
+class Test_014_OrderByCreditCard:
     userloginURL = ReadConfig.getUserLoginURL()
     logger = LogGen.loggen()
 
     # @pytest.mark.sanity
     # @pytest.mark.regression
-    def test_orderByCheck(self, setup):
-        self.logger.info("************ Starting Test_014_OrderByCheck  *************")
+    def test_orderByCreditCard(self, setup):
+        self.logger.info("************ Starting Test_014_OrderByCreditCard *************")
         self.logger.info("************ Verifying Login  *************")
         self.driver = setup
         self.driver.get(self.userloginURL)
@@ -71,9 +71,15 @@ class Test_014_OrderByCheck:
         self.cbc.clickShippingMethodContinue()
         self.logger.info("******** Payment Method Page *********")
         time.sleep(2)
+        self.cbc.clickOnCreditCard()
         self.cbc.clickPaymentMethodContinue()
-        self.logger.info("******** Payment Info Page *********")
         time.sleep(2)
+        self.logger.info("******** Payment Info Page *********")
+        self.logger.info("******** Providing Credit Card Info  *********")
+        self.cbc.setCardHolderName("Shon Zimkov")
+        self.cbc.setCardNumber("4111111111111111")
+        self.cbc.setExpirationDate("09","2030")
+        self.cbc.setCardCode("123")
         self.cbc.clickPaymentInfoContinue()
         self.logger.info("******** Order Confirm Page *********")
         time.sleep(2)
@@ -87,10 +93,10 @@ class Test_014_OrderByCheck:
         print(self.msg)
         if 'Your order has been successfully processed!' in self.msg:
             assert True == True
-            self.logger.info("******* Order By Check Test Passed *******")
+            self.logger.info("******* Order By Credit Card Test Passed *******")
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_orderByCheck_scr.png")
-            self.logger.error("******* Order By Check test failed ********")
+            self.driver.save_screenshot(".\\Screenshots\\" + "test_orderByCredit_scr.png")
+            self.logger.error("******* Order By Credit Card test failed ********")
             assert True == False
 
         # self.driver.close()

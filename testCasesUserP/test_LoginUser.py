@@ -10,7 +10,7 @@ class Test_011_LoginUserP:
 
     # @pytest.mark.sanity
     # @pytest.mark.regression
-    def test_login(self, setup):
+    def test_loginUser(self, setup):
         self.logger.info("************ Verifying Login Test *************")
         self.driver = setup
         self.driver.get(self.userloginURL)
@@ -24,7 +24,7 @@ class Test_011_LoginUserP:
             self.logger.info("************ Login Test Is Passed *************")
             self.driver.close()
         else:
-            self.driver.save_screenshot("./Screenshots/test_login.png")
+            self.driver.save_screenshot("./Screenshots/test_loginUser.png")
             self.logger.error("************ Login Test Is Failed *************")
             self.driver.close()
             assert False
@@ -45,7 +45,7 @@ class Test_011_LoginUserP:
             self.logger.info("************ Logout Test Is Passed *************")
             self.driver.close()
         else:
-            self.driver.save_screenshot("./Screenshots/test_login.png")
+            self.driver.save_screenshot("./Screenshots/test_logoutUser.png")
             self.logger.error("************ Logout Test Is Failed *************")
             self.driver.close()
             assert False

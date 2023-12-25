@@ -14,9 +14,15 @@ class CheckoutPage:
     txtPhone_id = "BillingNewAddress_PhoneNumber"
     billingContinue_button_name = "save"
     shippingMethodContinue_button_xpath = "//*[@id='shipping-method-buttons-container']/button"
-    paymentMethodContinue_button_name = "save"
+    paymentMethodContinue_button_xpath = "//*[@id='payment-method-buttons-container']/button"
     paymentInfoContinue_button_xpath = "//*[@id='payment-info-buttons-container']/button"
-    orderContinue_button_xpath = "//*[@id='confirm-order-buttons-container']/button"
+    orderConfirm_button_xpath = "//*[@id='confirm-order-buttons-container']/button"
+    rdCreditCard_id = "paymentmethod_1"
+    txtCardHolder_id = "CardholderName"
+    txtCardNumber_id = "CardNumber"
+    drpExpirationMonth_name = "ExpireMonth"
+    drpExpirationYear_name = "ExpireYear"
+    txtCardCode_id = "CardCode"
 
     def __init__(self, driver):
         self.driver = driver
@@ -64,11 +70,31 @@ class CheckoutPage:
         self.driver.find_element(By.XPATH, self.shippingMethodContinue_button_xpath).click()
 
     def clickPaymentMethodContinue(self):
-        self.driver.find_element(By.NAME, self.paymentMethodContinue_button_name).click()
+        self.driver.find_element(By.XPATH, self.paymentMethodContinue_button_xpath).click()
 
     def clickPaymentInfoContinue(self):
         self.driver.find_element(By.XPATH, self.paymentInfoContinue_button_xpath).click()
 
-    def clickOrderContinue(self):
-        self.driver.find_element(By.XPATH, self.orderContinue_button_xpath).click()
+    def clickOrderConfirm(self):
+        self.driver.find_element(By.XPATH, self.orderConfirm_button_xpath).click()
 
+    def clickOnCreditCard(self):
+        self.driver.find_element(By.ID, self.rdCreditCard_id).click()
+
+    def setCardHolderName(self, cname):
+        self.driver.find_element(By.ID, self.txtCardHolder_id).clear()
+        self.driver.find_element(By.ID, self.txtCardHolder_id).send_keys(cname)
+
+    def setCardNumber(self, cnum):
+        self.driver.find_element(By.ID, self.txtCardNumber_id).clear()
+        self.driver.find_element(By.ID, self.txtCardNumber_id).send_keys(cnum)
+
+    def setCardCode(self, ccode):
+        self.driver.find_element(By.ID, self.txtCardCode_id).clear()
+        self.driver.find_element(By.ID, self.txtCardCode_id).send_keys(ccode)
+
+    def setExpirationDate(self, m,y):
+        month = Select(self.driver.find_element(By.NAME, self.drpExpirationMonth_name))
+        month.select_by_visible_text(m)
+        year = Select(self.driver.find_element(By.NAME, self.drpExpirationYear_name))
+        year.select_by_visible_text(y)
