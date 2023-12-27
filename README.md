@@ -1,11 +1,19 @@
 Role: Solely automated testing of an e-commerce platform for comprehensive quality assurance.
+
 Programming Language: Utilized Python for test script development.
+
 Testing Framework: Implemented tests using the PyTest framework for efficient and scalable automation.
+
 Design Pattern: Employed the Page Object Model (POM) design pattern for a modular and maintainable testing framework.
+
 Web Automation: Utilized Selenium WebDriver for web application automation, ensuring reliable and consistent test execution.
+
 Reporting: Integrated HTML reports to provide detailed and actionable insights into test results.
+
 Agile Methodology: Utilized Jira for Agile Scrum methodology management in personal project management.
+
 Test Management: Employed Zephyr Scale as a test management tool for organized test planning, execution, and reporting.
+
 Continuous Integration/Continuous Deployment (CI/CD): Designed and executed tests seamlessly within Jenkins for efficient CI/CD pipelines.
 
 To run simply use the following commands:
