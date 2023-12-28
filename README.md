@@ -20,13 +20,13 @@ To run simply use the following commands:
 pip install -r requirements.txt
 
 To run all sanity tests:
-pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
+pytest -s -v -m "sanity" --html=./Reports/report.html testCasesAdmin/ --browser chrome
 
 To run all Customer POV tests:
-pytest -s -v --html=./Reports/report.html testCasesUserP/ --browser chrome
+pytest -s -v --html=./Reports/report.html testCasesUser/ --browser chrome
 
 To run all Admin POV tests:
-pytest -s -v --html=./Reports/report.html testCases/ --browser chrome
+pytest -s -v --html=./Reports/report.html testCasesAdmin/ --browser chrome
 
 *To run in different browser simply write instead of chrome, firefox and to run on MS edge, leave blank
 
