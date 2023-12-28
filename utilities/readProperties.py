@@ -25,6 +25,7 @@ class ReadConfig:
         url = config.get('common info', 'userloginURL')
         return url
 
+    @staticmethod
     def getHomeURL():
         url = config.get('common info', 'homeURL')
         return url
