@@ -29,3 +29,6 @@ To run all Admin POV tests:
 pytest -s -v --html=./Reports/report.html testCases/ --browser chrome
 
 *To run in different browser simply write instead of chrome, firefox and to run on MS edge, leave blank
+
+Test Case Development
+https://docs.google.com/spreadsheets/d/1-FsWicxrBrKD3pwiMqLbcAKeQxiXL5W5UA3ojUJCUyY/edit?usp=sharing
