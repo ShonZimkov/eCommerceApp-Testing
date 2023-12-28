@@ -6793,3 +6793,43 @@ nopCommerce version 4.60.0
 2023-12-28 14:14:32,605 - root - INFO - ******** Starting Search Error Test *********
 2023-12-28 14:14:32,606 - root - INFO - ******** search error validation *********
 2023-12-28 14:14:33,526 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:19:03,371 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:19:05,197 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:19:05,724 - root - INFO - ******** search error validation *********
+2023-12-28 20:23:12,681 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:23:14,222 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:23:14,746 - root - INFO - ******** search error validation *********
+2023-12-28 20:23:38,205 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:23:40,005 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:23:42,548 - root - INFO - ******** search error validation *********
+2023-12-28 20:24:00,819 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:24:02,385 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:24:04,509 - root - INFO - ******** search error validation *********
+2023-12-28 20:24:15,846 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:24:17,490 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:24:19,600 - root - INFO - ******** search error validation *********
+2023-12-28 20:24:27,546 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:24:28,390 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:24:30,819 - root - INFO - ******** search error validation *********
+2023-12-28 20:24:36,499 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:24:37,915 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:24:40,422 - root - INFO - ******** search error validation *********
+2023-12-28 20:24:53,599 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:24:56,973 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:24:59,030 - root - INFO - ******** search error validation *********
+2023-12-28 20:25:25,416 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:25:29,408 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:25:31,464 - root - INFO - ******** search error validation *********
+2023-12-28 20:26:08,178 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:26:11,857 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:26:13,932 - root - INFO - ******** search error validation *********
+2023-12-28 20:26:13,935 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:26:51,995 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:26:55,512 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:26:57,569 - root - INFO - ******** search error validation *********
+2023-12-28 20:26:57,571 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:29:09,935 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:29:13,667 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:29:15,740 - root - INFO - ******** search error validation *********
+2023-12-28 20:29:15,746 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:29:15,874 - root - INFO - ********* Ending Test_Negative015_SearchError ********
