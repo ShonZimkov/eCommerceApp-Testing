@@ -33,7 +33,7 @@ class Test_011_LoginUserP:
         self.logger.info("************ Verifying Logout Test *************")
         self.driver = setup
         self.driver.get(self.userloginURL)
-        self.lp = LoginUserP(self.driver)
+        self.lp = LoginUser(self.driver)
         self.lp.setUserName("shoniki951@gmail.com")
         self.lp.setPassword("Mamiki11")
         self.lp.clickLogin()

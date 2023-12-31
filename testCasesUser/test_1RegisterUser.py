@@ -15,7 +15,7 @@ class Test_010_RegisterUser:
         self.driver = setup
         self.driver.get(self.userloginURL)
         self.driver.maximize_window()
-
+        time.sleep(2)
         self.ru = RegisterUser(self.driver)
         self.ru.clickOnRegister()
         time.sleep(2)

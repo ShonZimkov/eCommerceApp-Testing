@@ -6833,3 +6833,1378 @@ nopCommerce version 4.60.0
 2023-12-28 20:29:15,740 - root - INFO - ******** search error validation *********
 2023-12-28 20:29:15,746 - root - INFO - ******* search Error Test Passed *******
 2023-12-28 20:29:15,874 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:16,777 - root - INFO - ********* Test_Negative005_AddCategoryNameError *********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,958 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:21,959 - root - INFO - ******** Starting Add Category Name Error Test *********
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,346 - root - INFO - ******** Add category without name *******
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,347 - root - INFO - ******** Add category Name Error validation *********
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,462 - root - INFO - ******* Add category Name Error Test Passed *******
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:28,574 - root - INFO - ********* Ending Test_Negative005_AddCategoryNameError ********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:30,606 - root - INFO - ********* Test_Negative001_AddCustomerEmailError *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:34,271 - root - INFO - ******** Starting Add Customer Email Error Test *********
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:36,986 - root - INFO - ******** Providing customer info without email *******
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,142 - root - INFO - ******** Add customer Email Error validation *********
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,545 - root - INFO - ******* Add customer Email Error Test Passed *******
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:42,651 - root - INFO - ********* Ending Test_Negative001_AddCustomerEmailError ********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:44,420 - root - INFO - ********* Test_Negative002_AddCustomerNoRoleError *********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,025 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:48,027 - root - INFO - ******** Starting Add Customer Role Error Test *********
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:50,811 - root - INFO - ******** Providing customer info without role *******
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,436 - root - INFO - ******** Saving customer info *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,437 - root - INFO - ******** Add customer Role Error validation *********
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:52,959 - root - INFO - ******* Add customer Role Error Test Passed *******
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:53,052 - root - INFO - ********* Ending Test_Negative002_AddCustomerNoRoleError ********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:54,840 - root - INFO - ********* Test_Negative006_AddManufacturerNameError *********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,848 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:30:57,849 - root - INFO - ******** Starting Add Manufacturer Name Error Test *********
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,933 - root - INFO - ******** Add manufacturer without name *******
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:02,934 - root - INFO - ******** Add manufacturer Name Error validation *********
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,463 - root - INFO - ******* Add manufacturer Name Error Test Passed *******
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:03,602 - root - INFO - ********* Ending Test_Negative006_AddManufacturerNameError ********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:05,399 - root - INFO - ********* Test_Negative003_AddProductNameError *********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,474 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:08,475 - root - INFO - ******** Starting Add Product Name Error Test *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product without name *******
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,514 - root - INFO - ******** Add product Name Error validation *********
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,564 - root - INFO - ******* Add product Name Error Test Passed *******
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:14,669 - root - INFO - ********* Ending Test_Negative003_AddProductNameError ********
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:16,381 - root - INFO - ******** Test_004_ExportCustomersSelectError *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,952 - root - INFO - ******* Login Successful *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:19,953 - root - INFO - ******* Starting Export Customer Error Test *******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:22,767 - root - INFO - ****** Exporting File (Selected) ******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:25,902 - root - INFO - ******* Export Selected Customers Error Test Passed *******
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:26,021 - root - INFO - ********* Ending Test_004_ExportCustomersSelectError ********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:27,716 - root - INFO - ********* Test_Negative007_RecordsApproveSelectedError *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:30,872 - root - INFO - ******** Starting Approve Selected Records Error Test *********
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:34,521 - root - INFO - ******** Approve Selected Records *******
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,526 - root - INFO - ******** Approve Selected Records Error validation *********
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,546 - root - INFO - ******* Approve Selected Records Error Test Passed *******
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:35,660 - root - INFO - ********* Ending Test_Negative007_RecordsApproveSelectedError ********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:37,401 - root - INFO - ********* Test_Negative009_RecordsDeleteSelectedError *********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,746 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:42,747 - root - INFO - ******** Starting Delete Selected Records Error Test *********
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:46,895 - root - INFO - ******** Delete Selected Records *******
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,907 - root - INFO - ******** Delete Selected Records Error validation *********
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:47,930 - root - INFO - ******* Delete Selected Records Error Test Passed *******
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:48,029 - root - INFO - ********* Ending Test_Negative009_RecordsDeleteSelectedError ********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:49,756 - root - INFO - ********* Test_Negative008_RecordsDisapproveSelectedError *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Login Successfull ********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:52,664 - root - INFO - ******** Starting Disapprove Selected Records Error Test *********
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:56,334 - root - INFO - ******** Disapprove Selected Records *******
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,346 - root - INFO - ******** Disapprove Selected Records Error validation *********
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,368 - root - INFO - ******* Disapprove Selected Records Error Test Passed *******
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:31:57,465 - root - INFO - ********* Ending Test_Negative008_RecordsDisapproveSelectedError ********
+2023-12-28 20:32:24,606 - root - INFO - ********* Test_Negative012_RegisterUserEmailError *********
+2023-12-28 20:32:24,606 - root - INFO - ********* Test_Negative012_RegisterUserEmailError *********
+2023-12-28 20:32:24,606 - root - INFO - ********* Test_Negative012_RegisterUserEmailError *********
+2023-12-28 20:32:24,606 - root - INFO - ********* Test_Negative012_RegisterUserEmailError *********
+2023-12-28 20:32:24,606 - root - INFO - ********* Test_Negative012_RegisterUserEmailError *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:28,592 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:28,592 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:28,592 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:28,592 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:28,592 - root - INFO - ******** Starting Register User email Error Test *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Starting Register User email Error Test *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Starting Register User email Error Test *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Starting Register User email Error Test *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Starting Register User email Error Test *********
+2023-12-28 20:32:28,592 - root - INFO - ******** Providing User info without email *******
+2023-12-28 20:32:28,592 - root - INFO - ******** Providing User info without email *******
+2023-12-28 20:32:28,592 - root - INFO - ******** Providing User info without email *******
+2023-12-28 20:32:28,592 - root - INFO - ******** Providing User info without email *******
+2023-12-28 20:32:28,592 - root - INFO - ******** Providing User info without email *******
+2023-12-28 20:32:29,320 - root - INFO - ******** Saving User info without email *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Saving User info without email *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Saving User info without email *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Saving User info without email *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Saving User info without email *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Register user email error validation *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Register user email error validation *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Register user email error validation *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Register user email error validation *********
+2023-12-28 20:32:29,320 - root - INFO - ******** Register user email error validation *********
+2023-12-28 20:32:29,335 - root - INFO - ******* Register user email Error Test Passed *******
+2023-12-28 20:32:29,335 - root - INFO - ******* Register user email Error Test Passed *******
+2023-12-28 20:32:29,335 - root - INFO - ******* Register user email Error Test Passed *******
+2023-12-28 20:32:29,335 - root - INFO - ******* Register user email Error Test Passed *******
+2023-12-28 20:32:29,335 - root - INFO - ******* Register user email Error Test Passed *******
+2023-12-28 20:32:29,433 - root - INFO - ********* Ending Test_Negative012_RegisterUserEmailError ********
+2023-12-28 20:32:29,433 - root - INFO - ********* Ending Test_Negative012_RegisterUserEmailError ********
+2023-12-28 20:32:29,433 - root - INFO - ********* Ending Test_Negative012_RegisterUserEmailError ********
+2023-12-28 20:32:29,433 - root - INFO - ********* Ending Test_Negative012_RegisterUserEmailError ********
+2023-12-28 20:32:29,433 - root - INFO - ********* Ending Test_Negative012_RegisterUserEmailError ********
+2023-12-28 20:32:31,280 - root - INFO - ********* Test_Negative010_RegisterUserFirstNameError *********
+2023-12-28 20:32:31,280 - root - INFO - ********* Test_Negative010_RegisterUserFirstNameError *********
+2023-12-28 20:32:31,280 - root - INFO - ********* Test_Negative010_RegisterUserFirstNameError *********
+2023-12-28 20:32:31,280 - root - INFO - ********* Test_Negative010_RegisterUserFirstNameError *********
+2023-12-28 20:32:31,280 - root - INFO - ********* Test_Negative010_RegisterUserFirstNameError *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:34,626 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:34,626 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:34,626 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:34,626 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:34,626 - root - INFO - ******** Starting Register User First Name Error Test *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Starting Register User First Name Error Test *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Starting Register User First Name Error Test *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Starting Register User First Name Error Test *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Starting Register User First Name Error Test *********
+2023-12-28 20:32:34,626 - root - INFO - ******** Providing User info without First Name *******
+2023-12-28 20:32:34,626 - root - INFO - ******** Providing User info without First Name *******
+2023-12-28 20:32:34,626 - root - INFO - ******** Providing User info without First Name *******
+2023-12-28 20:32:34,626 - root - INFO - ******** Providing User info without First Name *******
+2023-12-28 20:32:34,626 - root - INFO - ******** Providing User info without First Name *******
+2023-12-28 20:32:35,352 - root - INFO - ******** Saving User info without first name *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Saving User info without first name *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Saving User info without first name *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Saving User info without first name *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Saving User info without first name *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Register user first name error validation *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Register user first name error validation *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Register user first name error validation *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Register user first name error validation *********
+2023-12-28 20:32:35,352 - root - INFO - ******** Register user first name error validation *********
+2023-12-28 20:32:35,367 - root - INFO - ******* Register user first name Error Test Passed *******
+2023-12-28 20:32:35,367 - root - INFO - ******* Register user first name Error Test Passed *******
+2023-12-28 20:32:35,367 - root - INFO - ******* Register user first name Error Test Passed *******
+2023-12-28 20:32:35,367 - root - INFO - ******* Register user first name Error Test Passed *******
+2023-12-28 20:32:35,367 - root - INFO - ******* Register user first name Error Test Passed *******
+2023-12-28 20:32:35,467 - root - INFO - ********* Ending Test_Negative010_RegisterUserFirstNameError ********
+2023-12-28 20:32:35,467 - root - INFO - ********* Ending Test_Negative010_RegisterUserFirstNameError ********
+2023-12-28 20:32:35,467 - root - INFO - ********* Ending Test_Negative010_RegisterUserFirstNameError ********
+2023-12-28 20:32:35,467 - root - INFO - ********* Ending Test_Negative010_RegisterUserFirstNameError ********
+2023-12-28 20:32:35,467 - root - INFO - ********* Ending Test_Negative010_RegisterUserFirstNameError ********
+2023-12-28 20:32:37,202 - root - INFO - ********* Test_Negative011_RegisterUserLastNameError *********
+2023-12-28 20:32:37,202 - root - INFO - ********* Test_Negative011_RegisterUserLastNameError *********
+2023-12-28 20:32:37,202 - root - INFO - ********* Test_Negative011_RegisterUserLastNameError *********
+2023-12-28 20:32:37,202 - root - INFO - ********* Test_Negative011_RegisterUserLastNameError *********
+2023-12-28 20:32:37,202 - root - INFO - ********* Test_Negative011_RegisterUserLastNameError *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:41,100 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:41,100 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:41,100 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:41,100 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:41,100 - root - INFO - ******** Starting Register User Last Name Error Test *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Starting Register User Last Name Error Test *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Starting Register User Last Name Error Test *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Starting Register User Last Name Error Test *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Starting Register User Last Name Error Test *********
+2023-12-28 20:32:41,100 - root - INFO - ******** Providing User info without Last Name *******
+2023-12-28 20:32:41,100 - root - INFO - ******** Providing User info without Last Name *******
+2023-12-28 20:32:41,100 - root - INFO - ******** Providing User info without Last Name *******
+2023-12-28 20:32:41,100 - root - INFO - ******** Providing User info without Last Name *******
+2023-12-28 20:32:41,100 - root - INFO - ******** Providing User info without Last Name *******
+2023-12-28 20:32:41,824 - root - INFO - ******** Saving User info without Last name *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Saving User info without Last name *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Saving User info without Last name *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Saving User info without Last name *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Saving User info without Last name *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Register user Last name error validation *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Register user Last name error validation *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Register user Last name error validation *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Register user Last name error validation *********
+2023-12-28 20:32:41,824 - root - INFO - ******** Register user Last name error validation *********
+2023-12-28 20:32:41,836 - root - INFO - ******* Register user Last name Error Test Passed *******
+2023-12-28 20:32:41,836 - root - INFO - ******* Register user Last name Error Test Passed *******
+2023-12-28 20:32:41,836 - root - INFO - ******* Register user Last name Error Test Passed *******
+2023-12-28 20:32:41,836 - root - INFO - ******* Register user Last name Error Test Passed *******
+2023-12-28 20:32:41,836 - root - INFO - ******* Register user Last name Error Test Passed *******
+2023-12-28 20:32:41,940 - root - INFO - ********* Ending Test_Negative011_RegisterUserLastNameError ********
+2023-12-28 20:32:41,940 - root - INFO - ********* Ending Test_Negative011_RegisterUserLastNameError ********
+2023-12-28 20:32:41,940 - root - INFO - ********* Ending Test_Negative011_RegisterUserLastNameError ********
+2023-12-28 20:32:41,940 - root - INFO - ********* Ending Test_Negative011_RegisterUserLastNameError ********
+2023-12-28 20:32:41,940 - root - INFO - ********* Ending Test_Negative011_RegisterUserLastNameError ********
+2023-12-28 20:32:43,734 - root - INFO - ********* Test_Negative013_RegisterUserPasswordError *********
+2023-12-28 20:32:43,734 - root - INFO - ********* Test_Negative013_RegisterUserPasswordError *********
+2023-12-28 20:32:43,734 - root - INFO - ********* Test_Negative013_RegisterUserPasswordError *********
+2023-12-28 20:32:43,734 - root - INFO - ********* Test_Negative013_RegisterUserPasswordError *********
+2023-12-28 20:32:43,734 - root - INFO - ********* Test_Negative013_RegisterUserPasswordError *********
+2023-12-28 20:32:47,618 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:47,618 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:47,618 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:47,618 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:47,618 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:47,618 - root - INFO - ******** Starting Register User Password Error Test *********
+2023-12-28 20:32:47,618 - root - INFO - ******** Starting Register User Password Error Test *********
+2023-12-28 20:32:47,618 - root - INFO - ******** Starting Register User Password Error Test *********
+2023-12-28 20:32:47,618 - root - INFO - ******** Starting Register User Password Error Test *********
+2023-12-28 20:32:47,618 - root - INFO - ******** Starting Register User Password Error Test *********
+2023-12-28 20:32:47,619 - root - INFO - ******** Providing User info without Password *******
+2023-12-28 20:32:47,619 - root - INFO - ******** Providing User info without Password *******
+2023-12-28 20:32:47,619 - root - INFO - ******** Providing User info without Password *******
+2023-12-28 20:32:47,619 - root - INFO - ******** Providing User info without Password *******
+2023-12-28 20:32:47,619 - root - INFO - ******** Providing User info without Password *******
+2023-12-28 20:32:48,240 - root - INFO - ******** Saving User info without Password *********
+2023-12-28 20:32:48,240 - root - INFO - ******** Saving User info without Password *********
+2023-12-28 20:32:48,240 - root - INFO - ******** Saving User info without Password *********
+2023-12-28 20:32:48,240 - root - INFO - ******** Saving User info without Password *********
+2023-12-28 20:32:48,240 - root - INFO - ******** Saving User info without Password *********
+2023-12-28 20:32:48,241 - root - INFO - ******** Register user Password error validation *********
+2023-12-28 20:32:48,241 - root - INFO - ******** Register user Password error validation *********
+2023-12-28 20:32:48,241 - root - INFO - ******** Register user Password error validation *********
+2023-12-28 20:32:48,241 - root - INFO - ******** Register user Password error validation *********
+2023-12-28 20:32:48,241 - root - INFO - ******** Register user Password error validation *********
+2023-12-28 20:32:48,254 - root - INFO - ******* Register user Password Error Test Passed *******
+2023-12-28 20:32:48,254 - root - INFO - ******* Register user Password Error Test Passed *******
+2023-12-28 20:32:48,254 - root - INFO - ******* Register user Password Error Test Passed *******
+2023-12-28 20:32:48,254 - root - INFO - ******* Register user Password Error Test Passed *******
+2023-12-28 20:32:48,254 - root - INFO - ******* Register user Password Error Test Passed *******
+2023-12-28 20:32:48,365 - root - INFO - ********* Ending Test_Negative013_RegisterUserPasswordError ********
+2023-12-28 20:32:48,365 - root - INFO - ********* Ending Test_Negative013_RegisterUserPasswordError ********
+2023-12-28 20:32:48,365 - root - INFO - ********* Ending Test_Negative013_RegisterUserPasswordError ********
+2023-12-28 20:32:48,365 - root - INFO - ********* Ending Test_Negative013_RegisterUserPasswordError ********
+2023-12-28 20:32:48,365 - root - INFO - ********* Ending Test_Negative013_RegisterUserPasswordError ********
+2023-12-28 20:32:50,060 - root - INFO - ********* Test_Negative014_RegisterUserPasswordConfError *********
+2023-12-28 20:32:50,060 - root - INFO - ********* Test_Negative014_RegisterUserPasswordConfError *********
+2023-12-28 20:32:50,060 - root - INFO - ********* Test_Negative014_RegisterUserPasswordConfError *********
+2023-12-28 20:32:50,060 - root - INFO - ********* Test_Negative014_RegisterUserPasswordConfError *********
+2023-12-28 20:32:50,060 - root - INFO - ********* Test_Negative014_RegisterUserPasswordConfError *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:53,485 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:53,485 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:53,485 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:53,485 - root - INFO - ******** Register Page ********
+2023-12-28 20:32:53,485 - root - INFO - ******** Starting Register User Password confirmation Error Test *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Starting Register User Password confirmation Error Test *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Starting Register User Password confirmation Error Test *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Starting Register User Password confirmation Error Test *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Starting Register User Password confirmation Error Test *********
+2023-12-28 20:32:53,485 - root - INFO - ******** Providing User info without Password confirmation *******
+2023-12-28 20:32:53,485 - root - INFO - ******** Providing User info without Password confirmation *******
+2023-12-28 20:32:53,485 - root - INFO - ******** Providing User info without Password confirmation *******
+2023-12-28 20:32:53,485 - root - INFO - ******** Providing User info without Password confirmation *******
+2023-12-28 20:32:53,485 - root - INFO - ******** Providing User info without Password confirmation *******
+2023-12-28 20:32:54,133 - root - INFO - ******** Saving User info without Password confirmation *********
+2023-12-28 20:32:54,133 - root - INFO - ******** Saving User info without Password confirmation *********
+2023-12-28 20:32:54,133 - root - INFO - ******** Saving User info without Password confirmation *********
+2023-12-28 20:32:54,133 - root - INFO - ******** Saving User info without Password confirmation *********
+2023-12-28 20:32:54,133 - root - INFO - ******** Saving User info without Password confirmation *********
+2023-12-28 20:32:54,134 - root - INFO - ******** Register user Password confirmation error validation *********
+2023-12-28 20:32:54,134 - root - INFO - ******** Register user Password confirmation error validation *********
+2023-12-28 20:32:54,134 - root - INFO - ******** Register user Password confirmation error validation *********
+2023-12-28 20:32:54,134 - root - INFO - ******** Register user Password confirmation error validation *********
+2023-12-28 20:32:54,134 - root - INFO - ******** Register user Password confirmation error validation *********
+2023-12-28 20:32:54,146 - root - INFO - ******* Register user Password confirmation Error Test Passed *******
+2023-12-28 20:32:54,146 - root - INFO - ******* Register user Password confirmation Error Test Passed *******
+2023-12-28 20:32:54,146 - root - INFO - ******* Register user Password confirmation Error Test Passed *******
+2023-12-28 20:32:54,146 - root - INFO - ******* Register user Password confirmation Error Test Passed *******
+2023-12-28 20:32:54,146 - root - INFO - ******* Register user Password confirmation Error Test Passed *******
+2023-12-28 20:32:54,261 - root - INFO - ********* Ending Test_Negative014_RegisterUserPasswordConfError ********
+2023-12-28 20:32:54,261 - root - INFO - ********* Ending Test_Negative014_RegisterUserPasswordConfError ********
+2023-12-28 20:32:54,261 - root - INFO - ********* Ending Test_Negative014_RegisterUserPasswordConfError ********
+2023-12-28 20:32:54,261 - root - INFO - ********* Ending Test_Negative014_RegisterUserPasswordConfError ********
+2023-12-28 20:32:54,261 - root - INFO - ********* Ending Test_Negative014_RegisterUserPasswordConfError ********
+2023-12-28 20:32:55,980 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:32:55,980 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:32:55,980 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:32:55,980 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:32:55,980 - root - INFO - ********* Test_Negative015_SearchError *********
+2023-12-28 20:32:59,404 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:32:59,404 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:32:59,404 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:32:59,404 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:32:59,404 - root - INFO - ******** Starting Search Error Test *********
+2023-12-28 20:33:01,455 - root - INFO - ******** search error validation *********
+2023-12-28 20:33:01,455 - root - INFO - ******** search error validation *********
+2023-12-28 20:33:01,455 - root - INFO - ******** search error validation *********
+2023-12-28 20:33:01,455 - root - INFO - ******** search error validation *********
+2023-12-28 20:33:01,455 - root - INFO - ******** search error validation *********
+2023-12-28 20:33:01,461 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:33:01,461 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:33:01,461 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:33:01,461 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:33:01,461 - root - INFO - ******* search Error Test Passed *******
+2023-12-28 20:33:01,578 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:33:01,578 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:33:01,578 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:33:01,578 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-28 20:33:01,578 - root - INFO - ********* Ending Test_Negative015_SearchError ********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:14:55,380 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,039 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,040 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:01,041 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,535 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:04,536 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:09,017 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:11,107 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,230 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:13,401 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,981 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:15,982 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:20,886 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:24,629 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,132 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:28,337 - root - ERROR - ************ Checkout Test Is Failed *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:31,050 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:55,371 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Register Page ********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,365 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:15:58,366 - root - INFO - ******** Providing User info *******
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,253 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:01,254 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:06,131 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:16:10,710 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:20,558 - root - INFO - ********* Test_010_RegisterUser *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Register Page ********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,749 - root - INFO - ******** Starting Register User Test *********
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:26,750 - root - INFO - ******** Providing User info *******
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,918 - root - INFO - ******** Saving User info *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:28,919 - root - INFO - ******** Register user validation *********
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,015 - root - INFO - ******* Register user Test Passed *******
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:29,153 - root - INFO - ********* Ending Test_010_RegisterUser ********
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,539 - root - INFO - ************ Starting Test_012_AddToCart  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:31,540 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:37,370 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:39,452 - root - INFO - ******** Add To Cart validation *********
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,572 - root - INFO - ******* Add To Cart Test Passed *******
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:41,699 - root - INFO - ********* Ending Test_012_AddToCart ********
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,118 - root - INFO - ************ Starting Test_013_Checkout  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:44,119 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:49,053 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:52,465 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,394 - root - INFO - ******** Validate Checkout Page *********
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:56,403 - root - INFO - ************ Checkout Test Is Passed *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:26:58,946 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:01,344 - root - INFO - ************ Login Test Is Passed *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:03,808 - root - INFO - ************ Verifying Logout Test *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,882 - root - INFO - ************ Starting Test_014_OrderByCheck  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:07,884 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:13,141 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:16,499 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:20,355 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,669 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:23,736 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:25,816 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:27,895 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:29,974 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:32,016 - root - INFO - ******* Order By Check Test Passed *******
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,571 - root - INFO - ************ Starting Test_014_OrderByCreditCard *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:34,572 - root - INFO - ************ Verifying Login  *************
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:39,995 - root - INFO - ******** Jewelry Page  *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:42,773 - root - INFO - ******** Shopping Cart Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Billing and Payment Page *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:46,114 - root - INFO - ******** Provide Billing Info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Save Billing info *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,329 - root - INFO - ******** Shipping Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:50,396 - root - INFO - ******** Payment Method Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Payment Info Page *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:54,562 - root - INFO - ******** Providing Credit Card Info  *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:27:55,306 - root - INFO - ******** Order Confirm Page *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:05,378 - root - INFO - ******** Validate Order Confirmation *********
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:07,426 - root - INFO - ******* Order By Credit Card Test Passed *******
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,974 - root - INFO - ************ Starting Test_015_getOrders *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:09,975 - root - INFO - ************ Verifying Login Test *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:14,354 - root - INFO - ************ Account Settings Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:16,867 - root - INFO - ************ Orders Page *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,879 - root - INFO - ************ Validate Orders Exist *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
+2023-12-30 13:28:17,888 - root - INFO - ************ Get Orders Test Passed *************
