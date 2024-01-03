@@ -1,4 +1,5 @@
 import time
+import pytest
 from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -8,94 +9,99 @@ from pageObjectsUser.AddToCartPage import AddToCart
 from pageObjectsUser.CheckoutPage import CheckoutPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+from utilities.customUtils import customUtils
 
 
-class Test_014_OrderByCreditCard:
+class Test_016_OrderByCreditCard:
+    # configurations
     userloginURL = ReadConfig.getUserLoginURL()
+    username = ReadConfig.getUserUsername()
+    password = ReadConfig.getUserPassword()
     logger = LogGen.loggen()
 
-    # @pytest.mark.sanity
-    # @pytest.mark.regression
+    billing_lst = ReadConfig.getBliingInfo()
+    creditcard_lst = ReadConfig.getCreditCard()
+
+    @pytest.mark.regression
     def test_orderByCreditCard(self, setup):
-        self.logger.info("************ Starting Test_014_OrderByCreditCard *************")
-        self.logger.info("************ Verifying Login  *************")
-        self.driver = setup
-        self.driver.get(self.userloginURL)
-        self.driver.maximize_window()
-
+        # Arrange
+        customUtils.test_start(self, "Test_016_OrderByCreditCard", setup, self.userloginURL)
         self.lp = LoginUser(self.driver)
-        self.lp.setUserName("shoniki951@gmail.com")
-        self.lp.setPassword("Mamiki11")
-        self.lp.clickLogin()
-
-        time.sleep(2)
         self.atc = AddToCart(self.driver)
+        self.ckp = CheckoutPage(self.driver)
+
+        # Act
+        # login
+        self.lp.setUserName(self.username)
+        self.lp.setPassword(self.password)
+        self.lp.clickLogin()
+        # navigate to jewelry page
+        self.driver.implicitly_wait(2)
         self.atc.clickJewelryLink()
         self.logger.info("******** Jewelry Page  *********")
-        time.sleep(2)
+        # add item to shopping cart , navigate to shopping cart page
+        self.driver.implicitly_wait(2)
         self.atc.clickAddToCart()
+        self.driver.implicitly_wait(2)
         self.atc.clickShoppingCart()
         self.logger.info("******** Shopping Cart Page *********")
-
-        self.cbc = CheckoutPage(self.driver)
-        self.cbc.clickOnTermsofService()
-        self.cbc.clickOnCheckout()
-        time.sleep(2)
+        # terms of service and navigate to checkout page
+        self.ckp.clickOnTermsofService()
+        self.ckp.clickOnCheckout()
+        self.driver.implicitly_wait(2)
         self.logger.info("******** Billing and Payment Page *********")
         self.logger.info("******** Provide Billing Info *********")
 
         fname_box_locator = (By.ID, "BillingNewAddress_FirstName")
-
+        # try to input billing information , if there billing information saved then skip
         try:
             fname_box = WebDriverWait(self.driver, 2).until(
                 EC.element_to_be_clickable(fname_box_locator)
             )
-            self.cbc.setFirstName("Shon")
-            self.cbc.setLastName("Zimkov")
-            self.cbc.setEmail("shoniki951@gmail.com")
-            self.cbc.setCountry("Israel")
-            self.cbc.setCity("Eilat")
-            self.cbc.setAddress("Hasida 4")
-            self.cbc.setPostalCode("88000")
-            self.cbc.setPhoneNumber("0525052088")
+            self.ckp.setFirstName(self.billing_lst[0])
+            self.ckp.setLastName(self.billing_lst[1])
+            self.ckp.setEmail(self.billing_lst[2])
+            self.ckp.setCountry(self.billing_lst[3])
+            self.ckp.setCity(self.billing_lst[4])
+            self.ckp.setAddress(self.billing_lst[5])
+            self.ckp.setPostalCode(self.billing_lst[6])
+            self.ckp.setPhoneNumber(self.billing_lst[7])
 
         except TimeoutException:
             pass
-
-        self.cbc.clickBillingContinue()
-        time.sleep(2)
-
+        # navigate to shipping method page
+        self.driver.implicitly_wait(2)
+        self.ckp.clickBillingContinue()
         self.logger.info("******** Save Billing info *********")
         self.logger.info("******** Shipping Method Page *********")
-        self.cbc.clickShippingMethodContinue()
+        # navigate to payment method page
+        self.ckp.clickShippingMethodContinue()
         self.logger.info("******** Payment Method Page *********")
-        time.sleep(2)
-        self.cbc.clickOnCreditCard()
-        self.cbc.clickPaymentMethodContinue()
-        time.sleep(2)
+        # check the credit card option and navigate to payment info page
+        self.driver.implicitly_wait(2)
+        self.ckp.clickOnCreditCard()
+        self.ckp.clickPaymentMethodContinue()
+
         self.logger.info("******** Payment Info Page *********")
         self.logger.info("******** Providing Credit Card Info  *********")
-        self.cbc.setCardHolderName("Shon Zimkov")
-        self.cbc.setCardNumber("4111111111111111")
-        self.cbc.setExpirationDate("09","2030")
-        self.cbc.setCardCode("123")
-        self.cbc.clickPaymentInfoContinue()
+        # credit card details
+        self.driver.implicitly_wait(2)
+        self.ckp.setCardHolderName(self.creditcard_lst[0])
+        self.ckp.setCardNumber(self.creditcard_lst[1])
+        self.ckp.setExpirationDate(self.creditcard_lst[2], self.creditcard_lst[3])
+        self.ckp.setCardCode(self.creditcard_lst[4])
+        self.ckp.clickPaymentInfoContinue()
         self.logger.info("******** Order Confirm Page *********")
-        time.sleep(10)
-        self.cbc.clickOrderConfirm()
+        # wait to be able to order and confirm order
+        time.sleep(10)  # order one after another
+        self.ckp.clickOrderConfirm()
 
+        # Assert
         self.logger.info("******** Validate Order Confirmation *********")
-        time.sleep(2)
-
-        self.msg = self.driver.find_element(By.XPATH, "/html/body/div[6]/div[3]/div/div/div/div[2]/div/div[1]/strong").text
-
-        print(self.msg)
-        if 'Your order has been successfully processed!' in self.msg:
-            assert True == True
-            self.logger.info("******* Order By Credit Card Test Passed *******")
-        else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_orderByCredit_scr.png")
-            self.logger.error("******* Order By Credit Card test failed ********")
-            assert True == False
+        self.driver.implicitly_wait(2)
+        self.msg = self.driver.find_element(By.XPATH,
+                                            "/html/body/div[6]/div[3]/div/div/div/div[2]/div/div[1]/strong").text
+        customUtils.assert_equal_msg(self, 'Your order has been successfully processed!', "Test_016_OrderByCreditCard")
 
         self.driver.close()
+        self.logger.info("********* Ending Test_016_OrderByCreditCard ********")

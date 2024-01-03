@@ -1,28 +1,32 @@
 import pytest
-import time
 from selenium.webdriver.common.by import By
 from pageObjectsAdmin.LoginPage import LoginPage
 from pageObjectsAdmin.AddcustomerPage import AddCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+from utilities.customUtils import customUtils
 import string
 import random
 
 class Test_003_AddCustomer:
+    # basic configuration
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()
 
+    # customer configuration
+    addcust_lst = ReadConfig.getAddCustomer()
+
     @pytest.mark.sanity
     def test_addCustomer(self, setup):
-        self.logger.info("********* Test_003_AddCustomer *********")
-        self.driver = setup
-        self.driver.get(self.baseURL)
-        self.driver.maximize_window()
-
-
+        # Arrange
+        customUtils.test_start(self, "Test_003_AddCustomer", setup, self.baseURL)
         self.lp = LoginPage(self.driver)
+        self.addcust = AddCustomer(self.driver)
+
+        # Act
+        # login
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
@@ -30,41 +34,36 @@ class Test_003_AddCustomer:
 
         self.logger.info("******** Starting Add Customer Test *********")
 
-        self.addcust = AddCustomer(self.driver)
-        self.driver.implicitly_wait(2)
+        # navigate to customers page
+        self.driver.implicitly_wait(10)
         self.addcust.clickOnCustomerMenu()
         self.addcust.clickOnCustomerMenuItem()
 
-        self.addcust.clickOnAddNew()
+        # navigate to add customer page
         self.driver.implicitly_wait(2)
+        self.addcust.clickOnAddNew()
         self.logger.info("******** Providing customer info *******")
 
+        # provide info for adding new customer
+        self.driver.implicitly_wait(2)
         self.email = random_generator() + "@gmail.com"
         self.addcust.setEmail(self.email)
-        self.addcust.setPassword("test123")
-        self.addcust.setCustomerRoles("Guests")
-        self.addcust.setManagerOfVendor("Vendor 2")
-        self.addcust.setFirstName("Shon")
-        self.addcust.setLastName("Zimkov")
-        self.addcust.setDob("8/9/2000")
-        self.addcust.setCompanyName("MoonBridge")
-        self.addcust.setAdminContent("This is for testing")
+        self.addcust.setPassword(self.addcust_lst[0])
+        self.addcust.setCustomerRoles(self.addcust_lst[1])
+        self.addcust.setManagerOfVendor(self.addcust_lst[2])
+        self.addcust.setFirstName(self.addcust_lst[3])
+        self.addcust.setLastName(self.addcust_lst[4])
+        self.addcust.setDob(self.addcust_lst[5])
+        self.addcust.setCompanyName(self.addcust_lst[6])
+        self.addcust.setAdminContent(self.addcust_lst[7])
         self.addcust.clickOnSave()
 
         self.logger.info("******** Saving customer info *********")
 
+        # Assert
         self.logger.info("******** Add customer validation *********")
-
         self.msg = self.driver.find_element(By.TAG_NAME, "body").text
-
-        print(self.msg)
-        if 'customer has been added successfully' in self.msg:
-            assert True == True
-            self.logger.info("******* Add customer Test Passed *******")
-        else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_addCustomer_scr.png")
-            self.logger.error("******* Add customer test failed ********")
-            assert True == False
+        customUtils.assert_equal_msg(self, 'customer has been added successfully', "test_addCustomer")
 
         self.driver.close()
         self.logger.info("********* Ending Test003_AddCustomer ********")

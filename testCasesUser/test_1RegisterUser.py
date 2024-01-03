@@ -1,53 +1,49 @@
 import pytest
-import time
 from selenium.webdriver.common.by import By
 from pageObjectsUser.RegisterPageUser import RegisterUser
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+from utilities.customUtils import customUtils
 
 class Test_010_RegisterUser:
+    # configurations
     userloginURL = ReadConfig.getUserLoginURL()
     logger = LogGen.loggen()
 
-    # @pytest.mark.sanity
+    register_lst = ReadConfig.getRegisterUser()
+
+    @pytest.mark.sanity
     def test_registerUser(self, setup):
-        self.logger.info("********* Test_010_RegisterUser *********")
-        self.driver = setup
-        self.driver.get(self.userloginURL)
-        self.driver.maximize_window()
-        time.sleep(2)
+        # Arrange
+        customUtils.test_start(self, "Test_010_RegisterUser", setup, self.userloginURL)
         self.ru = RegisterUser(self.driver)
+
+        # Act
+        # navigate to register page
+        self.driver.implicitly_wait(5)
         self.ru.clickOnRegister()
-        time.sleep(2)
         self.logger.info("******** Register Page ********")
 
         self.logger.info("******** Starting Register User Test *********")
         self.logger.info("******** Providing User info *******")
 
-        self.ru.setGender('Male')
-        self.ru.setFirstName('Shon')
-        self.ru.setLastName('Zimkov')
-        self.ru.setDob('8','September','2000')
-        self.ru.setEmail('shoniki951@gmail.com')
-        self.ru.setCompanyName('Shon inc')
-        self.ru.setPassword('Mamiki11')
+        # provide registration info
+        self.driver.implicitly_wait(2)
+        self.ru.setGender(self.register_lst[0])
+        self.ru.setFirstName(self.register_lst[1])
+        self.ru.setLastName(self.register_lst[2])
+        self.ru.setDob(self.register_lst[3],self.register_lst[4],self.register_lst[5])
+        self.ru.setEmail(self.register_lst[6])
+        self.ru.setCompanyName(self.register_lst[7])
+        self.ru.setPassword(self.register_lst[8])
         self.ru.clickOnRegisterIN()
 
         self.logger.info("******** Saving User info *********")
 
+        # Assert
         self.logger.info("******** Register user validation *********")
-
         self.msg = self.driver.find_element(By.TAG_NAME, "body").text
-
-        print(self.msg)
-        if 'Your registration completed' in self.msg:
-            assert True == True
-            self.logger.info("******* Register user Test Passed *******")
-        else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_registerUser_scr.png")
-            self.logger.error("******* Register user test failed ********")
-            assert True == False
-
+        customUtils.assert_equal_msg(self, 'Your registration completed', "Test_010_RegisterUser")
 
         self.driver.close()
         self.logger.info("********* Ending Test_010_RegisterUser ********")

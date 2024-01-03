@@ -22,6 +22,7 @@ class RegisterUser:
         self.driver = driver
 
     def clickOnRegister(self):
+        self.driver.implicitly_wait(2)
         self.driver.find_element(By.XPATH, self.register_btn_xpath).click()
 
     def setGender(self, gender):

@@ -1,7 +1,10 @@
 from selenium.webdriver.common.by import By
+from utilities.customUtils import customUtils
+from utilities.customLogger import LogGen
 
 class SearchCustomer:
-# search customer page elements and functions
+    logger = LogGen.loggen()
+    # search customer page elements and functions
     txtEmail_id = "SearchEmail"
     txtFirstName_id = "SearchFirstName"
     txtLastName_id = "SearchLastName"

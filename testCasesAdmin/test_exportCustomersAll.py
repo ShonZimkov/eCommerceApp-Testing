@@ -6,9 +6,10 @@ from pageObjectsAdmin.AddcustomerPage import AddCustomer
 from pageObjectsAdmin.ExportCustomersPage import ExportCustomers
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+from utilities.customUtils import customUtils
 
-#Login obj and logger
 class Test_ExportCustomersAll_006:
+    # basic configuration
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
@@ -17,30 +18,32 @@ class Test_ExportCustomersAll_006:
 #TEST 6 : Export and Download Customer Info IN XML / EXCEL
     @pytest.mark.sanity
     def test_exportCustomersAll_006(self, setup):
-        self.logger.info("******** ExportCustomersAll_006 *******")
-        self.driver = setup
-        self.driver.get(self.baseURL)
-        self.driver.maximize_window()
-
+        # Arrange
+        customUtils.test_start(self, "Test_ExportCustomersAll_006", setup, self.baseURL)
         self.lp = LoginPage(self.driver)
+        self.addcust = AddCustomer(self.driver)
+        self.expcust = ExportCustomers(self.driver)
+
+        # Act
+        # login
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
-
         self.logger.info("******* Login Successful *******")
 
         self.logger.info("******* Starting Export Customer INFO *******")
-
-        self.addcust = AddCustomer(self.driver)
-        time.sleep(2)
+        # navigate to customers info
+        self.driver.implicitly_wait(2)
         self.addcust.clickOnCustomerMenu()
         self.addcust.clickOnCustomerMenuItem()
-        time.sleep(1)
+        # export customer to XML file
+        self.driver.implicitly_wait(2)
         self.logger.info("****** Exporting File (ALL) ******")
-        expcust = ExportCustomers(self.driver)
-        expcust.ClickdrpExportBtn()
-        expcust.ClicklstAllFoundXML()
-        time.sleep(2)
+        self.expcust.ClickdrpExportBtn()
+        self.expcust.ClicklstAllFoundXML()
+        self.driver.implicitly_wait(2)
+
+        # Assert
         download_directory = "C:/Users/shon/Downloads"
         file_name = "customers.xml"
         file_path = os.path.join(download_directory, file_name)
@@ -51,6 +54,5 @@ class Test_ExportCustomersAll_006:
             self.logger.info("*********** File downloaded Failed *********")
             assert False
 
-        self.logger.info("******** TC_ExportCustomersAll_006 Finished")
-
         self.driver.close()
+        self.logger.info("******** TC_ExportCustomersAll_006 Finished")
