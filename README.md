@@ -1,3 +1,6 @@
+
+![FrameworkArchitecture](https://github.com/ShonZimkov/eCommerceApp-Testing/assets/100130589/2d74b83b-969a-4660-933e-df37076125e2)
+
 Role: Solely automated testing of an e-commerce platform for comprehensive quality assurance.
 
 Programming Language: Utilized Python for test script development.
